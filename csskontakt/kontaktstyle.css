@@ -1,0 +1,20 @@
+body{
+
+    background-image: url(../img/slika.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    }
+    
+    .celina{
+    color: white;
+    text-align: center;
+    }
+    
+    .forma{
+    border: 1px solid white;
+    background: rgba(255, 255, 255, .2);
+    width: 200px;
+    height: 500px;
+    margin: auto;
+    margin-top: 50px;
+    }

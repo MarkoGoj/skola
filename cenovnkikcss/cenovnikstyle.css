@@ -1,0 +1,259 @@
+body{
+
+    background-image: url(../img/slika.jpg);
+    
+    background-size: cover;
+    
+    background-repeat: no-repeat;
+    
+    }
+    
+    .maliservis{
+    
+    border: 1px solid white;
+    
+    border-radius: 5px;
+    
+    color: #ffffff;
+    
+    margin-top: 1cm;
+    
+    margin-left: 1cm;
+    
+    margin-right: 20cm;
+    
+    background: rgba(255, 255, 255, .2);
+    
+    }
+    
+    .maliservis img{
+    
+    margin: 30px 30px 30px 30px;
+    
+    height: 200px;
+    
+    width: 200px;
+    
+    }
+    
+    .maliservis h1{
+    
+    margin-left: 7cm;
+    
+    margin-top: -6cm;
+    
+    margin-bottom: 3cm;
+    
+    text-transform: uppercase;
+    
+    }
+    
+    .maliservis p{
+    
+    margin-left: 7cm;
+    
+    margin-top: -2cm;
+    
+    margin-bottom: 1.5cm;
+    
+    }
+    
+    .velikiservis{
+    
+    border: 1px solid white;
+    
+    border-radius: 5px;
+    
+    color: black;
+    
+    margin-top: 1cm;
+    
+    margin-left: 20cm;
+    
+    margin-right: 1cm;
+    
+    background: rgba(255, 255, 255, .2);
+    
+    }
+    
+    .velikiservis img{
+    
+    margin: 30px 30px 30px 30px;
+    
+    height: 200px;
+    
+    width: 200px;
+    
+    }
+    
+    .velikiservis h1{
+    
+    margin-left: 7cm;
+    
+    margin-top: -6cm;
+    
+    margin-bottom: 3cm;
+    
+    text-transform: uppercase;
+    
+    }
+    
+    .velikiservis p{
+    
+    margin-left: 7cm;
+    
+    margin-top: -2cm;
+    
+    margin-bottom: 1.5cm;
+    
+    }
+    
+    .filteri{
+    
+    border: 1px solid white;
+    
+    border-radius: 5px;
+    
+    color: #ffffff;
+    
+    margin-top: 1cm;
+    
+    margin-left: 1cm;
+    
+    margin-right: 20cm;
+    
+    background: rgba(255, 255, 255, .2);
+    
+    }
+    
+    .filteri img{
+    
+    margin: 30px 30px 30px 30px;
+    
+    height: 200px;
+    
+    width: 200px;
+    
+    }
+    
+    .filteri h1{
+    
+    margin-left: 7cm;
+    
+    margin-top: -6cm;
+    
+    margin-bottom: 3cm;
+    
+    text-transform: uppercase;
+    
+    }
+    
+    .filteri p{
+    
+    margin-left: 7cm;
+    
+    margin-top: -2cm;
+    
+    margin-bottom: 1.5cm;
+    
+    }
+    
+    .uljaitecnosti{
+    
+    border: 1px solid white;
+    
+    border-radius: 5px;
+    
+    color: #ffffff;
+    
+    margin-top: 1cm;
+    
+    margin-left: 20cm;
+    
+    margin-right: 1cm;
+    
+    background: rgba(255, 255, 255, .2);
+    
+    }
+    
+    .uljaitecnosti img{
+    
+    margin: 30px 30px 30px 30px;
+    
+    height: 200px;
+    
+    width: 200px;
+    
+    }
+    
+    .uljaitecnosti h1{
+    
+    margin-left: 7cm;
+    
+    margin-top: -6cm;
+    
+    margin-bottom: 3cm;
+    
+    text-transform: uppercase;
+    
+    }
+    
+    .uljaitecnosti p{
+    
+    margin-left: 7cm;
+    
+    margin-top: -2cm;
+    
+    margin-bottom: 1.5cm;
+    
+    }
+    
+    .delovimotora{
+    
+    border: 1px solid white;
+    
+    border-radius: 5px;
+    
+    color: #ffffff;
+    
+    margin-top: 1cm;
+    
+    margin-left: 1cm;
+    
+    margin-right: 20cm;
+    
+    background: rgba(255, 255, 255, .2);
+    
+    }
+    
+    .delovimotora img{
+    
+    margin: 30px 30px 30px 30px;
+    
+    height: 200px;
+    
+    width: 200px;
+    
+    }
+    
+    .delovimotora h1{
+    
+    margin-left: 7cm;
+    
+    margin-top: -6cm;
+    
+    margin-bottom: 3cm;
+    
+    text-transform: uppercase;
+    
+    }
+    
+    .delovimotora p{
+    
+    margin-left: 7cm;
+    
+    margin-top: -2cm;
+    
+    margin-bottom: 1.5cm;
+    
+    }

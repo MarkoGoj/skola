@@ -1,0 +1,75 @@
+*{
+
+    margin: 0%;
+    
+    padding: 0%;
+    
+    }
+    
+    .Meni{
+    
+    background-color: darkgray;
+    
+    text-align: center;
+    
+    overflow: hidden;
+    
+    }
+    
+    .Meni a{
+    
+    float: left;
+    
+    display: inline;
+    
+    color: gray;
+    
+    text-decoration: none;
+    
+    padding: 15px 40px;
+    
+    font-weight: bold;
+    
+    margin: 3px;
+    
+    }
+    
+    .Meni h3{
+    
+    float: right;
+    
+    padding: 0px 100px;
+    
+    letter-spacing: 3px;
+    
+    margin-top: 15px;
+    
+    }
+    
+    .Meni a:hover{
+    
+    border: 1px solid black;
+    
+    color: black;
+    
+    background-color: gray;
+    
+    transition: 0.5s;
+    
+    }
+    
+    @media screen and (max-width:950px) {
+    
+    .Meni h3{
+    
+    display: none;
+    
+    }
+    
+    .me.Meni a{
+    
+    width: 100%;
+    
+    }
+    
+    }

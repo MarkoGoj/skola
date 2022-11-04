@@ -1,0 +1,48 @@
+body{
+
+    background-image: url(../img/slika.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    }
+    
+    .celina{
+    
+    color: white;
+    
+    }
+    
+    .logo1{
+    
+    width: 5cm;
+    height: 2.5cm;
+    
+    }
+    
+    .sadrzajstranice{
+    background: rgba(255, 255, 255, .2);
+    margin-top: -2cm;
+    margin-left: 6cm;
+    margin-right: 1cm;
+    border: 3px solid white;
+    border-radius: 5px;
+    
+    }
+    
+    .sadrzajstranice h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 32px;
+    font-weight: bold;
+    
+    }
+    
+    .sadrzajstranice p{
+    
+    font-size: 26px;
+    text-align: center;
+    }
+    
+    .sadrzajstranice img{
+    
+    margin: 5px 10px 5px 150px;
+    }
