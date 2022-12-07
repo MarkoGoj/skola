@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+sitemap: https://markogoj.github.io/skola/index.html/sitemap.xml
